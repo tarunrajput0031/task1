@@ -1,5 +1,9 @@
 # task1-install nmap and find your local IP Addresses
-nmap -sS 192.168.1.0/24
+Install Nmap
+Download from https://nmap.org/download.html
+
+open nmap(GUI)
+command:- nmap -sS 192.168.1.0/24
 8 hosts are up after scanning local ip addresses.
 Total 13 ports are open from 8 up hosts.
 
